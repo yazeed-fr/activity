@@ -1,3 +1,2 @@
 # activity
-this has some errors such as converting datatypes wrongly so I consider checking the code (there are no problems in the columns exploding part
-)
+to see the code for exploding the columns open the notebook and switch to code instead of preview 
